@@ -16,11 +16,11 @@
  - In the terminal, run the command to install the migrations table in your database:
  - > php artisan migrate:install
  - If the previous step was successful, your Laravel is connected to your database, if not, check if you didn't misspell anything.
- - In the terminal (again) to create the tables in the database. run the command: 
+ - In the terminal (again) to create the tables in the database, run the command: 
  - > php artisan migrate
  - And finally, to run the server, type the command in the terminal:
  - > php artisan serve
- - To view the page, acess:
+ - To view the page, access:
  - > 127.0.0.1:8000
  - Have fun (or not).
  
