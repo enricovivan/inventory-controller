@@ -1,5 +1,5 @@
-# inventory-controller
-A simple inventory management app
+<h1 align='center'>Inventory Controller</h1>
+<p align='center'>A simple inventory management app</p>
 
 # Info
 - Made with Laravel 9
