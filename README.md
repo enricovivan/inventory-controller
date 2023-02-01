@@ -27,3 +27,5 @@
  # About
  - I made this as a way to develop my skills with Laravel, since I'm a beginner.
  - So, the fact that I'm in a learning process, means a lot of mistakes (and bugs), but I'll get rid of them (probably).
+ - Text from ChatGPT to show you my gratefulness: 
+ > "Thank you for taking the time to view my code on GitHub! Your interest and support are greatly appreciated. I hope it was helpful and informative. If you have any questions or feedback, please don't hesitate to reach out."
