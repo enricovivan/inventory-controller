@@ -7,7 +7,7 @@ A simple inventory management app
 # To run
  - First make sure you have PHP 8.0 installed.
  - In terminal of the root folder, to install all dependencies, type:
- - $ composer install
+$ composer install
  - Make a copy of the file ".env.example" with the name ".env" and paste in root folder.
  - Create a new schema in your database with any name. In this example it will be "butter".
  - Modify the ".env" file with the information you need to connect in the database, like this:
